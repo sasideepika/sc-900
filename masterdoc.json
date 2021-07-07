@@ -45,10 +45,6 @@
         "Order": 10
         },
         {
-        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/master/Instructions/Labs/LAB_10_explore_intune.md",
-        "Order": 10
-        },
-        {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/master/Instructions/Labs/LAB_11_explore_service_trust_portal.md",
         "Order": 11
         },
